@@ -16,10 +16,11 @@ Somos uma empresa a 10 anos no mercado. O maior e-commerce de serviços e oportu
  - Desenvolvedor CLT Backend (Jr/Pleno) (Limite para envio do desafio: 10/08/2019)
 
 
-# Conhecimentos necessários para Frontend Pleno
+# Conhecimentos necessários para Backend
 
 Nesse desafio você deverá criar um novo serviço de disparo de emails para o Barato. O desafio consiste no seguinte:
 Você deverá disponiblizar um endpoint da seguinte forma:
+Esse desafio envolve: COnhecimento em JSON, Banco de dados, API rest, gerenciar fila de processamento, testes.
 
 
 #### Primeiro Endpoint
