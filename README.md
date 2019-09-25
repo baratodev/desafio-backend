@@ -12,8 +12,9 @@ Somos uma empresa a 10 anos no mercado. O maior e-commerce de serviços e oportu
 
 
 # Vagas disponíveis
- - Desenvolvedor Estágio Backend Frontend (Limite para envio do desafio: 10/08/2019)
- - Desenvolvedor CLT Backend (Jr/Pleno) (Limite para envio do desafio: 10/08/2019)
+ - ❌Desenvolvedor Estágio Backend Frontend (Limite para envio do desafio: 10/08/2019) 
+ - ❌Desenvolvedor CLT Backend (Jr/Pleno) (Limite para envio do desafio: 10/08/2019)
+ - ✅Desenvolvedor Backend Python (Jr/Pleno) (Limite para envio do desafio: 10/11/2019)
 
 
 # Conhecimentos necessários para Backend
@@ -133,9 +134,9 @@ O formato deve ser algo do tipo:
 ```
 
 
-### Qual arquitetura usar
+### Qual arquitetura usar (PHP ou Python)
 
-Fique a vontade para definir seu stack, seja em PHP / NodeJS ou a tecnologia de sua preferência.
+Fique a vontade para definir seu stack, seja em PHP / NodeJS / Python ou a tecnologia de sua preferência.
 Contudo, o resultado deve estar rodando no Docker com docker-compose configurado, ou seja:
 
 O comando
@@ -151,10 +152,19 @@ Adicione um Pull request com sua solução para o problema ou compacte um ZIP do
 Não esqueça de criar um README com instruções de como fazer seu código funcionar.
 
 
-### Diferenciais
+### Diferenciais PHP
 
 - Testes unitários
 - Dashboard admin simples apenas com a lista de emails agendados / enviados / erro
 - Usar redis ou outro gerenciador de fila
 - Usar Lumen / Laravel
+- Autenticar a API 
+
+
+### Diferenciais Python
+
+- Testes unitários
+- Dashboard admin simples apenas com a lista de emails agendados / enviados / erro
+- Usar redis ou outro gerenciador de fila
+- Usar Django / Flask / Pyramid
 - Autenticar a API 
